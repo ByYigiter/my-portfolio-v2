@@ -1,0 +1,134 @@
+{
+  "skills": [
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Full-Stack",
+      "description": "Professionally skilled in both front-end and back-end development, I excel in creating seamless, user-friendly web applications with a strong focus on performance and functionality."
+    },
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Front-end development involves creating the user interface of web applications. React, a JavaScript-based library, enables interactive and dynamic user experiences. CSS determines the styles and layouts."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Proficient in Java-based backend development, I leverage Hibernate and Spring Boot to optimize database operations, enhance security, and maximize performance."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "PL/SQL Developer",
+      "description": "Advanced proficiency in Oracle PL/SQL. Expertise includes complex query optimization, stored procedures, and database performance tuning for seamless backend operations in enterprise-level applications."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/project-1.png",
+      "title": "Movies App",
+      "description": "Explore a vast collection of the latest releases, timeless classics, and exclusive content, all in one convenient app experience.",
+      "link": "View In Github",
+      "connect" :"https://github.com/ByYigiter/my-movies"
+    },
+    {
+      "id": "2",
+      "src": "./img/project-2.jpg",
+      "title": "Movie Search",
+      "description": "Explore the latest releases and timeless classics! A vast movie collection awaits for an amazing film experience. ",
+      "link": "View In Github",
+      "connect" :"https://github.com/ByYigiter/Movies-Search"
+    },
+    {
+      "id": "3",
+      "src": "./img/todoApp-1.jpg",
+      "title": "Todo App",
+      "description": "Boost productivity with a user-friendly to-do app. Organize your tasks effortlessly. Always ready, accessible anywhere. Get things done efficiently!",
+      "link": "View In Github",
+      "connect" :"https://github.com/ByYigiter/todo-app"
+    },
+    {
+      "id": "4",
+      "src": "./img/shopping-cart.jpg",
+      "title": "Shopping-cart web site",
+      "description": "Effortless shopping experience: React site offers secure payments, personalized recommendations, and smooth browsing.",
+      "link": "View In Github",
+      "connect" :"https://github.com/ByYigiter/react-shopping-cart"
+    }
+    ,
+    {
+      "id": "5",
+      "src": "./img/product-filter-search.jpg",
+      "title": "Product-Filter-Search web site",
+      "description": "A product filtering and search website developed with JavaScript. User-friendly interface for a fast and efficient product browsing experience.",
+      "link": "View In Github",
+      "connect" :"https://github.com/ByYigiter/Product-Filter-Search"
+    }
+    ,
+    {
+      "id": "6",
+      "src": "./img/project-6.jpg",
+      "title": "Library Management Backend Project",
+      "description": "Efficient Spring Boot backend for seamless library management. Streamline operations, manage resources, and enhance user experience.",
+      "link": "View In Github",
+      "connect" :"https://github.com/ByYigiter/LibraryManagement_v2"
+    }
+    ,
+    {
+      "id": "7",
+      "src": "./img/starlink.jpg",
+      "title": "Starlink clone web site",
+      "description": "Starlink Clone website built with CSS. Elevate your internet speed with unique design and user-friendly interface.",
+      "link": "View In Github",
+      "connect" :"https://github.com/ByYigiter/starlink"
+    }
+    ,
+    {
+      "id": "8",
+      "src": "./img/project-8.jpg",
+      "title": "Company Backend Project",
+      "description": "Efficient Spring Boot backend for seamless company operations. Streamline processes, boost productivity, and enhance functionality.",
+      "link": "View In Github",
+      "connect" :"https://github.com/ByYigiter/Company-Project"
+    }
+    ,
+    {
+      "id": "9",
+      "src": "./img/project-9.jpg",
+      "title": "To do Backend Project",
+      "description": "Java-powered to-do project streamlines tasks, enhancing productivity and organization for optimized workflow efficiency.",
+      "link": "View In Github",
+      "connect" :"https://github.com/ByYigiter/To-do-Backend-Project"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "4",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "2",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
