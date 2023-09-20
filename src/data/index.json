@@ -8,7 +8,7 @@
     },
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
+      "src": "./img/feather-pen-1.png",
       "title": "Front-End",
       "description": "Front-end development involves creating the user interface of web applications. React, a JavaScript-based library, enables interactive and dynamic user experiences. CSS determines the styles and layouts."
     },
@@ -20,7 +20,7 @@
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
+      "src": "./img/product-chain-1.png",
       "title": "PL/SQL Developer",
       "description": "Advanced proficiency in Oracle PL/SQL. Expertise includes complex query optimization, stored procedures, and database performance tuning for seamless backend operations in enterprise-level applications."
     }
