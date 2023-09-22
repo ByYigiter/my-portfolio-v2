@@ -68,7 +68,7 @@ function Navbar() {
 							to="heroSection"
 							className="navbar--content"
 						>
-							Home
+								Home
 						</Link>
 					</li>
 					<li>
