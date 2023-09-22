@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-Demo : [My Portfolio](https://recepyigiter.vercel.app/)
+Demo My-site : [My Portfolio](https://recepyigiter.vercel.app/)
 
 ### `npm start`
 
