@@ -75,6 +75,21 @@ h1,h2,h3,h4,h5,h6,p {margin: 0;}
   color: var(--github);
   background-color: var(--white);
 }
+.scroll-to-top.scrollTop{
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 99;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  background-color: var(--primary);
+  /* color: var(--white); */
+  cursor: pointer;
+  padding: 5px; /* Padding artırıldı */
+  border-radius: 50%; /* Yüzde değeri ile tamamen yuvarlak köşeler sağlandı */
+  
+}
 /* Global CSS Ends */
 /* Main Headings */
 
